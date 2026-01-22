@@ -4,3 +4,10 @@
 #impact
 #about us
 # 
+
+Website Requirements:
+Homepage
+About the Prototype
+Mission Statement
+About the team
+Why Aquabond?
