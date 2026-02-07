@@ -1,3 +1,10 @@
+#info abt ui for app
+#making the mobile app using React Native(targeting both for Ios and Andriod simulateneously)
+#Using Expo Go for faster development and ability to test on physical devices
+#application is written in javascript with one shared codebase
+
+
+
 # EarthPrize2026-AquaBond
 #home page: header, summary of product, 
 #about the prototype
