@@ -343,3 +343,48 @@ footer {
     .site-nav .nav-inner { padding: 0 12px; }
     .site-nav .nav-links { flex-wrap: wrap; gap: 0.25rem; }
 }
+
+@media (max-width: 768px) {
+    .info-box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+
+    .info-img img {
+        width: 100%;
+
+    }
+}
+
+
+
+
+/* Mobile stacking */
+@media (max-width: 768px) {
+    .info-box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+
+    .crop-top {
+        width: 100%;
+        max-width: 400px;
+        margin: auto;
+    }
+}
+
+
+.main-header {
+    text-align: center;
+    padding: 3rem 0 1.5rem 0;
+}
+
+
+.main-header h1 {
+    font-size: 2.5rem;
+    color: #0b3d2e;
+    font-weight: 600;
+}
+
